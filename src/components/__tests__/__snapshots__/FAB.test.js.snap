@@ -125,7 +125,7 @@ exports[`renders extended FAB 1`] = `
               ]
             }
           >
-            ?
+            
           </Text>
         </View>
       </View>
@@ -283,7 +283,7 @@ exports[`renders normal FAB 1`] = `
               ]
             }
           >
-            ?
+            
           </Text>
         </View>
       </View>
@@ -416,7 +416,7 @@ exports[`renders small FAB 1`] = `
               ]
             }
           >
-            ?
+            
           </Text>
         </View>
       </View>

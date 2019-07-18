@@ -78,7 +78,7 @@ exports[`renders DrawerItem with icon 1`] = `
           ]
         }
       >
-        ?
+        
       </Text>
       <Text
         numberOfLines={1}
@@ -195,7 +195,7 @@ exports[`renders active DrawerItem 1`] = `
           ]
         }
       >
-        ?
+        
       </Text>
       <Text
         numberOfLines={1}

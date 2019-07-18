@@ -92,7 +92,7 @@ exports[`renders disabled toggle button 1`] = `
         ]
       }
     >
-      ?
+      
     </Text>
   </View>
 </View>
@@ -183,7 +183,7 @@ exports[`renders toggle button 1`] = `
         ]
       }
     >
-      ?
+      
     </Text>
   </View>
 </View>
@@ -281,7 +281,7 @@ exports[`renders unchecked toggle button 1`] = `
         ]
       }
     >
-      ?
+      
     </Text>
   </View>
 </View>
