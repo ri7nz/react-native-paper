@@ -104,12 +104,6 @@ class RadioButton extends React.Component<Props> {
   // @component ./RadioButtonGroup.tsx
   static Group = RadioButtonGroup;
 
-  // @component ./RadioButtonAndroid.tsx
-  static Android = RadioButtonAndroid;
-
-  // @component ./RadioButtonIOS.tsx
-  static IOS = RadioButtonIOS;
-
   handlePress = (context: RadioButtonContextType) => {
     const { onPress } = this.props;
     const { onValueChange } = context;
